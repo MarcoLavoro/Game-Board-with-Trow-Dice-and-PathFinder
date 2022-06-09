@@ -18,3 +18,17 @@ A little UI interface helps the user to understand the turn logic and dices resu
 The goal of this challenge is just to reach the blue tile before the IA 
 
 The time for this challenge was 24h
+
+
+![alt text](https://github.com/MarcoLavoro/Game-Board-with-Trow-Dice-and-PathFinder/blob/main/GitImages/1.png?raw=true)
+
+
+![alt text](https://github.com/MarcoLavoro/Game-Board-with-Trow-Dice-and-PathFinder/blob/main/GitImages/2.png?raw=true)
+
+
+![alt text](https://github.com/MarcoLavoro/Game-Board-with-Trow-Dice-and-PathFinder/blob/main/GitImages/3.png?raw=true)
+
+
+![alt text](https://github.com/MarcoLavoro/Game-Board-with-Trow-Dice-and-PathFinder/blob/main/GitImages/4.png?raw=true)
+
+
